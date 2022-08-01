@@ -46,7 +46,11 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinwl&theme=onedark" />
 </a>
 
-<br/>
+
+<!-- Inserir quando tiver mais repositórios originais, para não puxar as linguagens dos projetos/desafios --
+<a href="https://github.com/kelvinwl">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinwl&theme=onedark&layout=compact" />
+</a> -->
 
 <h3> :earth_americas: &nbsp;Reach me: </h3> 
 
