@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kelvin Lindquist</h1>
 <h3 align="center">React Native Developer | JavaScript | React | Node</h3>
 
-- 🤔 &nbsp; Exploring technologies and developing mobile software solutions.
-- 🎓 &nbsp; Studying **SYSTEM ANALYSIS AND DEVELOPMENT** at <a href="https://hto.ifsp.edu.br/institucional/">IFSP</a>.
-- 💼 &nbsp; Working as **REACT NATIVE DEVELOPER** at <a href="http://www.hereit.com.br/">HereIT</a>
-- 🌱 &nbsp; Learning more about **MERN FULL STACK**.
+- 🤔 &nbsp; Exploring technologies
+- 🎓 &nbsp; ~~Studying~~ On hold **SYSTEM ANALYSIS AND DEVELOPMENT** at <a href="https://hto.ifsp.edu.br/institucional/">IFSP</a>
+- 💼 &nbsp; Worked as **REACT NATIVE DEVELOPER** at <a href="http://www.hereit.com.br/">HereIT</a>
+- 🌱 &nbsp; Learning more about **MERN FULL STACK**
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
